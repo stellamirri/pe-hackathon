@@ -17,4 +17,3 @@ pays_region = pays_region.loc[score_pays.index,:]
 regions = pays_region['Region'].unique()
 score_group_pays = score_pays.groupby(by = pays_region['Region'])
 print(score_group_pays.sum())
- 
