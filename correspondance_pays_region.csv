@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name_en,Region
 Belgium,european_union
 Bolivia (Plurinational State of),south_america
@@ -214,4 +215,222 @@ Monaco,european_union
 Malta,middle_east_north_africa
 Senegal,sub_saharan_africa
 Sint Maarten (Dutch part),latin_america_caribbean
+=======
+name_fr,Region
+Belgique,european_union
+Bolivie,south_america
+Comores,sub_saharan_africa
+Suisse,european_union
+Ghana,sub_saharan_africa
+Iran,middle_east_north_africa
+Irak,middle_east_north_africa
+Jamaïque,central_america_caraibes
+Pays-Bas,european_union
+Pologne,european_union
+Vatican,european_union
+Afghanistan,asia_oceania
+Algérie,middle_east_north_africa
+Hong Kong (Chine),asia_oceania
+Laos,asia_oceania
+Nauru,asia_oceania
+Turkménistan,continental_europe
+Zambie,sub_saharan_africa
+Australie,asia_oceania
+Bahamas,central_america_caraibes
+Bosnie-Herzégovine,continental_europe
+République tchèque,european_union
+France,european_union
+Corée du Sud,asia_oceania
+Philippines,asia_oceania
+Saint-Vincent-et-les-Grenadines,central_america_caraibes
+Arménie,continental_europe
+Azerbaïdjan,continental_europe
+Burundi,sub_saharan_africa
+Bangladesh,asia_oceania
+Equateur,south_america
+Ethiopie,sub_saharan_africa
+Gabon,sub_saharan_africa
+Gambie,sub_saharan_africa
+Haïti,central_america_caraibes
+Kiribati,asia_oceania
+Macao (Chine),asia_oceania
+Birmanie,asia_oceania
+Porto Rico,latin_america_caribbean
+Qatar,middle_east_north_africa
+Slovaquie,european_union
+Togo,sub_saharan_africa
+Ukraine,continental_europe
+Aruba,latin_america_caribbean
+Bénin,sub_saharan_africa
+Biélorussie,continental_europe
+Îles Caïmans,latin_america_caribbean
+Gibraltar,europe_central_asia
+Guinée-Bissau,sub_saharan_africa
+Grenade,central_america_caraibes
+Inde,asia_oceania
+Libye,middle_east_north_africa
+Sainte-Lucie,central_america_caraibes
+Lettonie,european_union
+Corée du Nord,asia_oceania
+Soudan du Sud,sub_saharan_africa
+Trinité et Tobago,central_america_caraibes
+Albanie,continental_europe
+Bhoutan,asia_oceania
+Côte dIvoire,sub_saharan_africa
+Sri Lanka,asia_oceania
+Panama,central_america_caraibes
+Syrie,middle_east_north_africa
+Ouzbékistan,continental_europe
+Autriche,european_union
+Egypte,middle_east_north_africa
+Erythrée,sub_saharan_africa
+Îles Féroé,europe_central_asia
+Guinée-Équatoriale,sub_saharan_africa
+Groenland,europe_central_asia
+Guyana,south_america
+Lituanie,european_union
+Mexique,central_america_caraibes
+Norvège,european_union
+Rwanda,sub_saharan_africa
+Eswatini,sub_saharan_africa
+Thaïlande,asia_oceania
+Emirats arabes unis,middle_east_north_africa
+Espagne,european_union
+Royaume-Uni,european_union
+Islande,european_union
+Kenya,sub_saharan_africa
+Lesotho,sub_saharan_africa
+Nigéria,sub_saharan_africa
+Palaos,east_asia_pacific
+Papouasie-Nouvelle-Guinée,asia_oceania
+Burkina Faso,sub_saharan_africa
+Chine,asia_oceania
+Cambodge,asia_oceania
+Liban,middle_east_north_africa
+Liechtenstein,european_union
+Paraguay,south_america
+Slovénie,european_union
+Tonga,asia_oceania
+Turquie,european_union
+Tanzanie,sub_saharan_africa
+Îles Vierges britanniques,latin_america_caribbean
+Canada,north_america
+Mali,sub_saharan_africa
+Îles Mariannes du Nord,east_asia_pacific
+Soudan,sub_saharan_africa
+Barbade,central_america_caraibes
+Fidji,asia_oceania
+Kirghizistan,continental_europe
+Saint-Martin (partie française),latin_america_caribbean
+Mauritanie,sub_saharan_africa
+Zimbabwe,sub_saharan_africa
+Québec,north_america
+Chili,south_america
+Croatie,european_union
+Arabie Saoudite,middle_east_north_africa
+Samoa américaines,east_asia_pacific
+Bermudes,north_america
+Congo (Rép. dém.),sub_saharan_africa
+Costa Rica,central_america_caraibes
+Guinée,sub_saharan_africa
+Île de Man,europe_central_asia
+Japon,asia_oceania
+Îles Salomon,asia_oceania
+Saint-Marin,european_union
+Suriname,south_america
+Îles Turques-et-Caïques,latin_america_caribbean
+Antigua-et-Barbuda,central_america_caraibes
+Congo,sub_saharan_africa
+Honduras,central_america_caraibes
+Saint-Christophe-et-Niévès,central_america_caraibes
+Roumanie,european_union
+Sao Tomé-et-Principe,sub_saharan_africa
+Afrique du Sud,sub_saharan_africa
+Grèce,european_union
+Mozambique,sub_saharan_africa
+Ile Maurice,sub_saharan_africa
+Botswana,sub_saharan_africa
+République centrafricaine,sub_saharan_africa
+Finlande,european_union
+Kazakhstan,continental_europe
+Îles Marshall,asia_oceania
+Monténégro,continental_europe
+Malaisie,asia_oceania
+Népal,asia_oceania
+Nouvelle-Zélande,asia_oceania
+Pérou,south_america
+Etats-Unis,north_america
+Yémen,middle_east_north_africa
+Cameroun,sub_saharan_africa
+Cuba,central_america_caraibes
+République dominicaine,central_america_caraibes
+Italie,european_union
+Liberia,sub_saharan_africa
+Suède,european_union
+Tunisie,middle_east_north_africa
+Samoa,asia_oceania
+Curaçao,latin_america_caribbean
+Danemark,european_union
+Indonésie,asia_oceania
+Singapour,asia_oceania
+Salvador,central_america_caraibes
+Uganda,sub_saharan_africa
+Uruguay,south_america
+Venezuela,south_america
+Allemagne,european_union
+Guam,east_asia_pacific
+Macédoine du Nord,continental_europe
+Malawi,sub_saharan_africa
+Pakistan,asia_oceania
+Portugal,european_union
+Bulgarie,european_union
+Brunei,asia_oceania
+Chypre,european_union
+Micronésie,asia_oceania
+Maroc,middle_east_north_africa
+Moldavie,continental_europe
+Madagascar,sub_saharan_africa
+Mongolie,asia_oceania
+Sierra Leone,sub_saharan_africa
+Timor oriental,asia_oceania
+Viêt Nam,asia_oceania
+Angola,sub_saharan_africa
+Belize,central_america_caraibes
+Hongrie,european_union
+Irlande,european_union
+Koweït,middle_east_north_africa
+Maldives,asia_oceania
+Niger,sub_saharan_africa
+Nicaragua,central_america_caraibes
+Territoires palestiniens,middle_east_north_africa
+Taïwan,asia_oceania
+Argentine,south_america
+Colombie,south_america
+Jordanie,middle_east_north_africa
+Namibie,sub_saharan_africa
+Serbie,continental_europe
+Tadjikistan,continental_europe
+Cap Vert,sub_saharan_africa
+Géorgie,continental_europe
+Kosovo,continental_europe
+Luxembourg,european_union
+Oman,middle_east_north_africa
+Russie,continental_europe
+Somalie,sub_saharan_africa
+Seychelles,sub_saharan_africa
+Tchad,sub_saharan_africa
+Tuvalu,asia_oceania
+Andorre,european_union
+Bahreïn,middle_east_north_africa
+Brésil,south_america
+Djibouti,middle_east_north_africa
+Dominique,central_america_caraibes
+Estonie,european_union
+Guatemala,central_america_caraibes
+Israël,middle_east_north_africa
+Monaco,european_union
+Malte,middle_east_north_africa
+Sénégal,sub_saharan_africa
+Saint Martin (partie néerlandaise),latin_america_caribbean
+>>>>>>> origin/main
 Vanuatu,asia_oceania
